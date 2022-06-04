@@ -1,29 +1,16 @@
 # to-do-list
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple To do list App
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+### - how to install?
+> 1. clone repozitory
+`git clone https://github.com/Fulldroper/ToDoApp-Vue.git`
+> 2. open folder
+`cd ToDoApp-Vue` 
+### - how to start server?
+> 1. install packages
+`npm i`
+> 2. Start
+`npm run dev`
+> 3. Build
+`npm run build`
